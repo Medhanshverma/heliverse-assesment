@@ -1,5 +1,5 @@
 # heliverse-assesment
-# To run the server go inside backend folder and type 
+## To run the server go inside backend folder and type 
 nodemon server.js
 # inside terminal
 # The server will be running on port 5000
